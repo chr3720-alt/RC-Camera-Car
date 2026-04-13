@@ -1,0 +1,40 @@
+## 📋 Requirements
+
+### 🔧 Hardware Requirements
+- ESP32 / Arduino Microcontroller  
+- Motor Driver Module (L298N / L293D)  
+- DC Motors (2 or 4 depending on chassis)  
+- Robot Car Chassis with Wheels  
+- Camera Module (ESP32-CAM / USB Camera)  
+- Battery Pack (Li-ion / Li-Po)  
+- Voltage Regulator (if required)  
+- Jumper Wires  
+- Breadboard / Custom PCB (optional)  
+
+---
+
+### 💻 Software Requirements
+- Arduino IDE  
+- ESP32 / Arduino Board Package  
+- Required Libraries:
+  - WiFi.h (for wireless control)
+  - BluetoothSerial.h (optional)
+  - ESP32-CAM libraries (for video streaming)
+- Serial Monitor (for debugging)
+
+---
+
+### ⚙️ System Requirements
+- Laptop / PC for programming  
+- USB Cable for uploading code  
+- Stable Wi-Fi connection (for video streaming)  
+- Mobile / Web Interface for control  
+
+---
+
+### 🌐 Optional Requirements (Advanced Features)
+- Mobile App for remote control  
+- Web dashboard for live streaming  
+- GPS Module (for tracking)  
+- Ultrasonic Sensor (for obstacle avoidance)  
+- AI modules (for object detection)  
